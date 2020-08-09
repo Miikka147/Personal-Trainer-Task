@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Personal-Trainer-Task/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Personal-Trainer-Task/static/js/main.38973485.chunk.js",
+    "main.js.map": "/Personal-Trainer-Task/static/js/main.38973485.chunk.js.map",
+    "runtime-main.js": "/Personal-Trainer-Task/static/js/runtime-main.26aff2fa.js",
+    "runtime-main.js.map": "/Personal-Trainer-Task/static/js/runtime-main.26aff2fa.js.map",
+    "static/css/2.831ac3c2.chunk.css": "/Personal-Trainer-Task/static/css/2.831ac3c2.chunk.css",
+    "static/js/2.e6f238e6.chunk.js": "/Personal-Trainer-Task/static/js/2.e6f238e6.chunk.js",
+    "static/js/2.e6f238e6.chunk.js.map": "/Personal-Trainer-Task/static/js/2.e6f238e6.chunk.js.map",
+    "index.html": "/Personal-Trainer-Task/index.html",
+    "precache-manifest.526633731b302b7708e4eed63a73b1af.js": "/Personal-Trainer-Task/precache-manifest.526633731b302b7708e4eed63a73b1af.js",
+    "service-worker.js": "/Personal-Trainer-Task/service-worker.js",
+    "static/css/2.831ac3c2.chunk.css.map": "/Personal-Trainer-Task/static/css/2.831ac3c2.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/Personal-Trainer-Task/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e6f238e6.chunk.js.LICENSE.txt": "/Personal-Trainer-Task/static/js/2.e6f238e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26aff2fa.js",
+    "static/css/2.831ac3c2.chunk.css",
+    "static/js/2.e6f238e6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.38973485.chunk.js"
+  ]
+}
